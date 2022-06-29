@@ -1,6 +1,6 @@
 # kuis-auto-telyu
 
-masukan kode ini ke dalam inspect elemen
+masukan kode dibawah ini ke dalam inspect elemen pas di menu pilihan kuis
 
 ```
 Array.prototype.random = function () {
