@@ -20,7 +20,6 @@ $('div[id="radioX"]').each(function(index, value) {
         $(`div[id='radioX'] li input`).attr('checked', false);
         return false;
     }
-    console.log(panjangPilihan);
   $(`div[id='radioX']:eq(${index}) li:eq(${terpilih}) input`).attr('checked', true);
 });
 
